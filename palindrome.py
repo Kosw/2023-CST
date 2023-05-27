@@ -5,3 +5,4 @@ class palindrome:
       palindrome.count += 1
   def __str__(self):
     return str(palindrome.count)
+  
